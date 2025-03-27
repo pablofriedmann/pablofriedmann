@@ -1,4 +1,4 @@
-# HELLO WORLD (or just Hey there!), I'm Pablo 👋
+# HELLO WORLD (or just "Hey there!"), I'm Pablo 👋
 
 I'm a passionate software developer 💻 who thrives on tackling challenges and pushing the boundaries of what’s possible in technology 🚀. My expertise spans across JavaScript, React, Python, SQL, HTML, CSS, and Node.js, allowing me to create dynamic and impactful applications ⚒️. I relish the journey of watching projects evolve—whether I’m collaborating with a team or diving into solo endeavors 🤝.
 
