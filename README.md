@@ -58,4 +58,4 @@ Let’s connect and create something extraordinary together! ✨
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablofriedmann&layout=compact&theme=radical)
 
 </div>
----
+
