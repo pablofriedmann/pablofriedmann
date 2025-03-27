@@ -50,10 +50,11 @@ Let’s connect and create something extraordinary together! ✨
 
 ---
 
-## 📊 Most Used Languages
+## 📊 My GitHub Stats
 
 <div align="center">
-
+  
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablofriedmann&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablofriedmann&layout=compact&theme=radical)
 
 </div>
