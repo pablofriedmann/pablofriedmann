@@ -46,6 +46,7 @@ Let’s connect and create something extraordinary together! ✨
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
 </p>
 
