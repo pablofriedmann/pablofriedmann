@@ -59,7 +59,22 @@ Let’s connect and create something extraordinary together! ✨
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
+## 🚧 Now Working On
 
+- 🧩 **Deskly** – An all-in-one ERP platform for freelancers and small teams.  
+  Focus: client management, finance tracking, and simple project tools.  
+  Stack: React · Flask · PostgreSQL · Bootstrap
+
+- 🎞️ **AnalogAPI** – A public API about analog cameras and films.  
+  Focus: recommendations, tagging, favorites, and relationships between cameras, films, and use cases.  
+  Stack: FastAPI · SQLModel · PostgreSQL · JWT
+
+## 📚 Currently Learning/ Studying
+
+- Artificial Intelligence & Machine Learning fundamentals
+- Software architecture best practices (SOLID, Clean Code, Testing)
+- Spring Boot with Angular for scalable full stack apps
+- Docker & CI/CD basics for smoother deployment
 ---
 
 ## 📊 My GitHub Stats
