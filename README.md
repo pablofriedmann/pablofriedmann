@@ -1,6 +1,6 @@
 # HELLO WORLD (or just "Hey there!"), I'm Pablo 👋
 
-I'm a passionate software developer 💻 who thrives on tackling challenges and pushing the boundaries of what’s possible in technology 🚀. My expertise spans across JavaScript, React, Python, SQL, HTML, CSS, and Node.js, allowing me to create dynamic and impactful applications ⚒️. I relish the journey of watching projects evolve—whether I’m collaborating with a team or diving into solo endeavors 🤝.
+I'm a passionate software developer 💻 who thrives on tackling challenges and pushing the boundaries of what’s possible in technology 🚀. My expertise spans across JavaScript, React, Python, SQL and Node.js, allowing me to create dynamic and impactful applications ⚒️. I relish the journey of watching projects evolve—whether I’m collaborating with a team or diving into solo endeavors 🤝.
 
 Deeply curious about the future 🧠, I’m especially fascinated by machines, artificial intelligence 🤖, and how technology is reshaping the world 🌍. I’m currently studying AI & Machine Learning because I truly believe this field will revolutionize everything—and I want to be part of that change 🔥.
 
