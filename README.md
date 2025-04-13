@@ -61,13 +61,13 @@ Let’s connect and create something extraordinary together! ✨
 
 ## 🚧 Now Working On
 
-- 🧩 **Deskly** – An all-in-one ERP platform for freelancers and small teams.  
+- 🧩 **Deskly** – An all-in-one ERP platform for freelancers and small teams ([deskly](https://github.com/pablofriedmann/deskly)).  
   Focus: client management, finance tracking, and simple project tools.  
   Stack: React · Flask · PostgreSQL · Bootstrap
 
-- 🎞️ **AnalogAPI** – A public API about analog cameras and films.  
-  Focus: recommendations, tagging, favorites, and relationships between cameras, films, and use cases.  
-  Stack: FastAPI · SQLModel · PostgreSQL · JWT
+- 🎞️ **AnalogAPI** – A public API for analog cameras and films ([AnalogAPI](https://github.com/pablofriedmann/analogAPI)).  
+  Focus: Phase 1 (MVP) completed with recommendations, tagging, favorites, and format-based compatibility between cameras and films. Now working on Phase 2: expanding the catalog with web scraping.  
+  Stack: Python · FastAPI · SQLAlchemy · PostgreSQL · Render
 
 ## 📚 Currently Learning/ Studying
 
