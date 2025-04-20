@@ -66,7 +66,7 @@ Let’s connect and create something extraordinary together! ✨
   Stack: React · Flask · PostgreSQL · Bootstrap
 
 - 🎞️ **AnalogAPI** – A public API for analog cameras and films ([AnalogAPI](https://github.com/pablofriedmann/analogAPI)).  
-  Focus: Phase 1 (MVP) completed with recommendations, tagging, favorites, and format-based compatibility between cameras and films. Now working on Phase 2: expanding the catalog with web scraping.  
+  Focus: Phase 2 completed! Expanded the catalog with web scraping for cameras and films! Now preparing for Phase 3: enhancing user experience with collections, comments, kits, and history logs.  
   Stack: Python · FastAPI · SQLAlchemy · PostgreSQL · Render
 
 ## 📚 Currently Learning/ Studying
