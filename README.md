@@ -2,7 +2,7 @@
 
 I'm a passionate software developer 💻 who thrives on tackling challenges and pushing the boundaries of what’s possible in technology 🚀. My expertise spans across JavaScript, React, Python, SQL and Node.js, allowing me to create dynamic and impactful applications ⚒️. I relish the journey of watching projects evolve—whether I’m collaborating with a team or diving into solo endeavors 🤝.
 
-Deeply curious about the future 🧠, I’m especially fascinated by machines, artificial intelligence 🤖, and how technology is reshaping the world 🌍. I’m currently studying AI & Machine Learning because I truly believe this field will revolutionize everything—and I want to be part of that change 🔥.
+Lately, my curiosity has been drawn toward the world of DevOps and Cloud Computing ☁️—areas that I see as fundamental to building scalable, reliable, and future-proof systems. I'm currently preparing for the **AWS Solutions Architect Associate Certification** and the **Meta Back-End Developer Professional Certificate**, deepening my knowledge in cloud architecture, backend systems, automation, and infrastructure as code 🔧. I’m eager to contribute to cloud-native projects that make technology faster, smarter, and more accessible to everyone 🌐.
 
 When I’m not coding, you can find me capturing the world through my camera 📸, enjoying films 🎬, playing some music 🎺 , watching football ⚽️, or petting random dogs 🐶.
 
@@ -59,6 +59,14 @@ Let’s connect and create something extraordinary together! ✨
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
+## 📚 Currently Learning / Studying
+
+- **AWS Certified Solutions Architect – Associate** 🏗️  
+- **Meta Back-End Developer Professional Certificate** 🔧  
+- Artificial Intelligence & Machine Learning fundamentals 🤖  
+- Software architecture best practices (SOLID, Clean Code, Testing) 🧠  
+- Docker & CI/CD basics for smoother deployment 🚢
+  
 ## 🚧 Now Working On
 
 - 🧩 **Deskly** – An all-in-one ERP platform for freelancers and small teams ([deskly](https://github.com/pablofriedmann/deskly)).  
@@ -69,12 +77,7 @@ Let’s connect and create something extraordinary together! ✨
   Focus: Phase 2 completed! Expanded the catalog with web scraping for cameras and films! Now preparing for Phase 3: enhancing user experience with collections, comments, kits, and history logs.  
   Stack: Python · FastAPI · SQLAlchemy · PostgreSQL · Render
 
-## 📚 Currently Learning/ Studying
 
-- Artificial Intelligence & Machine Learning fundamentals
-- Software architecture best practices (SOLID, Clean Code, Testing)
-- Spring Boot with Angular for scalable full stack apps
-- Docker & CI/CD basics for smoother deployment
 ---
 
 ## 📊 My GitHub Stats
